@@ -1,4 +1,4 @@
-# Parallel Programming dengan MPI dan Python
+# Membuat Cluster MPI
 Tutorial menggunakan message passing interface (MPI) dengan Python. Tutorial ini menggunakan Linux Ubuntu 22.04
 
 ## 0. Sebelum Bekerja
